@@ -1,0 +1,1 @@
+--cmd "c:\go\webgo.exe" --args "-url https://portal.azure.com -login v::#i0116::{Target.AccountName}@{Target.AccountDomainName}||c::#idSIButton9||s::#i0118::{password}||c::#idSIButton9||o::#idTxtBx_SAOTCC_OTC::{Target.TotpCodes}::5 -delay 1500 -debug"
